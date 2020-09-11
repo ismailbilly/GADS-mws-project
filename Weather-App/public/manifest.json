@@ -1,0 +1,76 @@
+{"short_name": "Weather-App",
+    "name": "Weather-App",
+    "description": "This is a weather application",
+    "start_url": "/index.html",
+    "background_color": "#00aae7",
+    "theme_color": "#00aae7",
+    "display": "standalone",
+    "icons": [
+        {
+         "src": "/icons/Icon-72.png",
+         "type": "image/png",
+         "sizes": "72x72"
+        },
+        {
+         "src": "/icons/Icon-76.png",
+         "type": "image/png",
+         "sizes": "76x76"
+        },
+        {
+         "src": "/icons/Icon-96.png",
+         "type": "image/png",
+         "sizes": "96x96"
+        },
+        {
+         "src": "/icons/Icon-114.png",
+         "type": "image/png",
+         "sizes": "114x114"
+        },
+        {
+         "src": "/icons/Icon-128.png",
+         "type": "image/png",
+         "sizes": "128x128"
+        },
+        {
+         "src": "/icons/Icon-144.png",
+         "type": "image/png",
+         "sizes": "144x144"
+        },
+        {
+         "src": "/icons/Icon-152.png",
+         "type": "image/png",
+         "sizes": "152x152"
+        },
+        {
+         "src": "/icons/Icon-172.png",
+         "type": "image/png",
+         "sizes": "172x172"
+        },
+        {
+         "src": "/icons/Icon-192.png",
+         "type": "image/png",
+         "sizes": "192x192"
+        },
+        {
+         "src": "/icons/Icon-196.png",
+         "type": "image/png",
+         "sizes": "196x196"
+        },
+        {
+         "src": "/icons/Icon-256.png",
+         "type": "image/png",
+         "sizes": "256x256"
+        },
+        {
+         "src": "/icons/Icon-512.png",
+         "type": "image/png",
+         "sizes": "512x512"
+        },
+        {
+         "src": "/icons/Icon-1024.png",
+         "type": "image/png",
+         "sizes": "1024x1024"
+        }
+       ]
+       
+      }
